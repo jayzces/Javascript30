@@ -1,2 +1,2 @@
 # Javascript30
-#Javascript3030 Day Vanilla JS Coding Challenge
+30 Day Vanilla JS Coding Challenge
